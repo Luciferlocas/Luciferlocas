@@ -68,4 +68,3 @@ Details.sayHello();
 
 [![Rohit Somvanshi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luciferlocas&bg_color=161b22&color=ffffff&line=ffffff&point=2e35ff&area=true&hide_border=true)](https://github.com/luciferlocas)
 
-#  Arrivederci...
