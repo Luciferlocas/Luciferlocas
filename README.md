@@ -48,7 +48,7 @@ Details.sayHello();
 ## Socials:
 [![Behance](https://img.shields.io/badge/Behance-000?logo=behance&logoColor=white)](https://behance.net/luciferlocas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rohit-somvanshi/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Lucifer_locas) [![!Portfolio](https://img.shields.io/badge/RS-Portfolio-1d4ed8?)]((https://www.luciferlocas.live/))
 
-## GitHub Stats :e
+## GitHub Stats:
 
 <table >
   <tr>
