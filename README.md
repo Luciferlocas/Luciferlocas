@@ -5,18 +5,18 @@ const Details = {
   name: "" as string,
   gender: "" as string,
   role: "" as string,
-  currentlyOn: "" as string,
   languages: [] as Array<string>,
-  willMoveTo: "" as string,
+  learning: "" as string,
+  linkedIn: "" as string,
 
   displayInfo() {
     console.log(`
       Name: ${this.name}
       Gender: ${this.gender}
       Role: ${this.role}
-      Currently On: ${this.currentlyOn}
       Languages: ${this.languages}
-      Will move To: ${this.willMoveTo}
+      Learning: ${this.learning}
+      LinkedIn: ${this.linkedIn}
     `);
   },
 
@@ -29,9 +29,9 @@ const Info = {
   name: "Rohit Somvanshi",
   gender: "Male",
   role: "Frontend Developer",
-  currentlyOn: "NextJS",
   languages: ["hi_IN", "en_US"],
-  willMoveTo: "NodeJS",
+  learning: "Scalability",
+  linkedIn: "https://linkedin.com/in/rohit-somvanshi",
 };
 
 Details.displayInfo.call(Info);
@@ -40,19 +40,16 @@ Details.sayHello();
 
 ```
 
-## Socials:
-[![Behance](https://img.shields.io/badge/Behance-000?logo=behance&logoColor=white)](https://behance.net/luciferlocas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-somvanshi/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Lucifer_locas) [![Portfolio](https://img.shields.io/badge/RS-Portfolio-1d4ed8?)](https://www.luciferlocas.live/)
-
 ## GitHub Stats:
 
-<table >
+<table>
   <tr>
     <td>
-      <img src="https://stats.quine.sh/Luciferlocas/github?theme=dark&size=small" alt="GitHub Stats"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luciferlocas&theme=city_lights" alt="stats" />
     </td>
-    <td align="right">
-      <img src="https://visitcount.itsvg.in/api?id=Luciferlocas&icon=3&color=5"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=Luciferlocas&bg_color=30,4754eb,904e95&title_color=fff&text_color=fff&count_private=true&show_icons=true&icon_color=fff"/></td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luciferlocas&theme=city_lights" alt="stats" />
+    </td>
   </tr>
 </table>
 
@@ -65,7 +62,4 @@ Details.sayHello();
 </div>
 
 ##
-
-
-[![Rohit Somvanshi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luciferlocas&bg_color=161b22&color=ffffff&line=ffffff&point=2e35ff&area=true&hide_border=true)](https://github.com/luciferlocas)
 
